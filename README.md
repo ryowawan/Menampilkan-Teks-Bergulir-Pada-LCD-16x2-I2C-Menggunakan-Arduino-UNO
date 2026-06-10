@@ -7,6 +7,6 @@ Membuat tulisan pada tampilan LCD dengan efek scrolling dan menggunakan potensio
 - Kabel Jumper Male to Female
 
 # Rangkaian 
-
+<img width="1272" height="457" alt="Copy of LCD I2C Arduino" src="https://github.com/user-attachments/assets/47ba2808-015c-4763-a25c-c6a1d765d22c" />
 
 
