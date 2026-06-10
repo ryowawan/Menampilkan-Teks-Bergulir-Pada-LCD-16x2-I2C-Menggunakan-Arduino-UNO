@@ -1,4 +1,4 @@
-# Arduino Dengan Tampilan LCD dan Potensio
+# Menampilkan Teks Bergulir Pada LCD 16x2 I2C Menggunakan Arduino UNO
 Membuat tulisan pada tampilan LCD dengan efek scrolling dan menggunakan potensio untuk mengatur kecerahan pada LCD
 
 # Bahan
