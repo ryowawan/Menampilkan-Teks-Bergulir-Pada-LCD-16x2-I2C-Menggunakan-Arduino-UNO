@@ -15,7 +15,7 @@ Sambungankan 4 pin LCD 16x2 I2C pada pin Arduino dengan skema seperti rangkaian 
 - SDA ➡️ Pin Analog 4 (A4) pada Arduino Uno / SDA
 - SCL ➡️ Pin Analog 5 (A5) pada Arduino Uno / SCL
 
-| Kolom 1 | Kolom 2 | Kolom 3 |
-| --- | --- | --- |
-| Baris 1, Kolom 1 | Baris 1, Kolom 2 | Baris 1, Kolom 3 |
-| Baris 2, Kolom 1 | Baris 2, Kolom 2 | Baris 2, Kolom 3 |
+| LCD 16x2 I2C | Arduino UNO |
+| --- | --- |
+| Baris 1, Kolom 1 | Baris 1, Kolom 2 |
+| Baris 2, Kolom 1 | Baris 2, Kolom 2 |
