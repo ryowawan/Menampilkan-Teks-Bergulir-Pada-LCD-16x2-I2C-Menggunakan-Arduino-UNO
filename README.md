@@ -11,7 +11,7 @@ Membuat tulisan pada tampilan LCD dengan efek scrolling dan menggunakan potensio
 
 ➡️ Sambungankan 4 pin LCD 16x2 I2C pada pin Arduino dengan skema seperti rangkaian di atas
 
-| **LCD 16x2 I2C** | **Arduino UNO** |
+| *LCD 16x2 I2C* | *Arduino UNO* |
 | --- | --- |
 | GND | GND |
 | VCC | 5V |
